@@ -74,5 +74,6 @@ A curated list of stable cryptocurrency resources and projects
 | Kowala  | [Kowala](https://kowala.tech/)  | Uses fees, arbitrage, and variable block reward for PoW miners to control supply |
 
 ## How to help:
+  - Improve this repo by making a PR!
   - [The Stable Fund: Request for Startups](https://stable.fund/rfs)
   - [Kyokan](https://angel.co/kyokan) is open to collaborate with projects and funds interested in accelerating adoption of cryptocurrencies by designing incentives, building generalized tools/payment integrations, and improving usability.
