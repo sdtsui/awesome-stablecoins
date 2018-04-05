@@ -19,6 +19,31 @@ A curated list of stable cryptocurrency resources and projects
 - Non-Crypto-Collateralized
 - Uncollateralized/Other
 
+## Maintaining stability (Incomplete)
+  - CFD ([Contract For Difference](https://www.investopedia.com/terms/c/contractfordifferences.asp)), related derivates, [trades](https://www.investopedia.com/terms/c/cashandcarry.asp), and futures contracts
+    - See also: Arthur Hayes' [BitMEX blog posts](https://blog.bitmex.com/xbtusd-the-philosophers-stone/) on [Synthetic USD](https://blog.bitmex.com/in-depth-creating-synthetic-usd/)
+  - CDP (Collateralized Debt Position)
+  - Price Oracles
+    - Fully Trusted/Centralized
+      - Reuters
+    - Decentralized/Delegated
+      - MKR
+        - [Thread](https://www.reddit.com/r/MakerDAO/comments/7z0wvr/vitalik_comments_on_manipulating_the_price_feed/) between Rune and V on MKR
+      - Basecoin Price Feed (todo: link to paper)
+    - Peer to Peer
+      - Truthcoin/Bitcoinhivemind?
+    - Schelling Point Schemes (Carbon or Kowala, need to check)
+      - [V's post](https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed/)
+      - 100000 14237 59049 76241 81259 90215 132156 157604
+
+  - CDO (Collateralized Debt Obligation)
+    - [V's other post](https://ethresear.ch/t/collateralized-debt-obligations-for-issuer-backed-tokens/525)
+
+  - [Seignorage Shares](https://bravenewcoin.com/assets/Whitepapers/A-Note-on-Cryptocurrency-Stabilisation-Seigniorage-Shares.pdf)
+    - Note differences/variations in model between projects
+
+## Project List
+
 ##### Crypto-Collateralized  
 ---------
 | Project Name  | Link | Notes |
@@ -47,3 +72,7 @@ A curated list of stable cryptocurrency resources and projects
 | Carbon  | [Carbon](https://www.carbon.money/) | Two-token 'Aztec' Model, supply contraction via reverse dutch auction  |
 | Fragments  | [Fragments.org](https://www.fragments.org/)  | Three-token model, USD Fragments, USD Fragment Bonds, and reserve collateral (ETH for now)  |
 | Kowala  | [Kowala](https://kowala.tech/)  | Uses fees, arbitrage, and variable block reward for PoW miners to control supply |
+
+## How to help:
+  - [The Stable Fund: Request for Startups](https://stable.fund/rfs)
+  - [Kyokan](https://angel.co/kyokan) is open to collaborate with projects and funds interested in accelerating adoption of cryptocurrencies by designing incentives, building generalized tools/payment integrations, and improving usability.
