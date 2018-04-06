@@ -28,7 +28,6 @@ A curated list of stable cryptocurrency resources and projects
       - Reuters
     - Decentralized/Delegated
       - MKR
-        - [Thread](https://www.reddit.com/r/MakerDAO/comments/7z0wvr/vitalik_comments_on_manipulating_the_price_feed/) between Rune and V on MKR
       - Basecoin Price Feed (todo: link to paper)
     - Peer to Peer
       - Truthcoin/Bitcoinhivemind?
@@ -36,8 +35,7 @@ A curated list of stable cryptocurrency resources and projects
       - [V's post](https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed/)
       - 100000 14237 59049 76241 81259 90215 132156 157604
 
-  - CDO (Collateralized Debt Obligation)
-    - [V's other post](https://ethresear.ch/t/collateralized-debt-obligations-for-issuer-backed-tokens/525)
+  - [CDOs (Collateralized Debt Obligations)](https://ethresear.ch/t/collateralized-debt-obligations-for-issuer-backed-tokens/525)
 
   - [Seignorage Shares](https://bravenewcoin.com/assets/Whitepapers/A-Note-on-Cryptocurrency-Stabilisation-Seigniorage-Shares.pdf)
     - Uses one of the schemes above (commonly schelling coins) as a price oracle.
