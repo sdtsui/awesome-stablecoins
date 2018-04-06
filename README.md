@@ -36,7 +36,7 @@ A curated list of stable cryptocurrency resources and projects
       - 100000 14237 59049 76241 81259 90215 132156 157604
 
   - [Seignorage Shares](https://bravenewcoin.com/assets/Whitepapers/A-Note-on-Cryptocurrency-Stabilisation-Seigniorage-Shares.pdf)
-    - [Repo](https://github.com/rmsams/stablecoins) and [Vitalik's Summary](https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/)
+    - [Repo](https://github.com/rmsams/stablecoins), [Epicenter](https://www.youtube.com/watch?v=V7-xSVJQrgI), and [Vitalik's Summary](https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/)
     - Uses one of the schemes above (commonly schelling coins) as a price oracle.
     - There is a lot of variation between projects, but roughly:
       - When price is above the peg, new tokens are printed to increase supply, and distributed amongst 'shareholders', holders of the governance token, or some other token.
@@ -52,13 +52,21 @@ A curated list of stable cryptocurrency resources and projects
 
   - [Stablecoins are doomed to fail](https://prestonbyrne.com/2017/12/10/stablecoins-are-doomed-to-fail/)
   - [Stablecoins are doomed to fail, Part II: MakerDAO’s “DAI” stablecoin is breaking, as predicted](https://prestonbyrne.com/2018/01/11/epicaricacy/)
+    - [Reddit](https://www.reddit.com/r/ethereum/comments/7pqwnj/stablecoins_are_doomed_to_fail_part_ii_makerdaos/), and [HN](https://news.ycombinator.com/item?id=16141759) threads.
+    - [Twitter thread](https://twitter.com/AFDudley0/status/951355773724045312), with Rick Dudley, in response to a perceived break of the peg: volume was unclear.
   - [Stablecoins are doomed to fail, Pt. III: SAGA](https://prestonbyrne.com/2018/03/22/stablecoins-are-doomed-to-fail-pt-iii-saga/)
   - [Basecoin: the worst idea in cryptocurrency, reborn](https://prestonbyrne.com/2017/10/13/basecoin-bitshares-2-electric-boogaloo/amp/)
+
 
 Project Comparisons:
   - [MakerDAO vs Basecoin](https://www.reddit.com/r/MakerDAO/comments/76mup4/makerdao_vs_basecoin/)
   - Vitalik's [comments](https://ethresear.ch/t/collateralized-debt-obligations-for-issuer-backed-tokens/525/8) on Maker's CDPs and price feed Rune's [response](https://www.reddit.com/r/MakerDAO/comments/7z0wvr/vitalik_comments_on_manipulating_the_price_feed/)
   > Another thing I have thought about is that in an economic model where you do not assume altruistic honesty or non-coordination, it’s not clear that makerdao has a higher security level, or even that it’s possible to achieve a higher security level, than seignorage shares. If the total discounted expected future profits of the scheme are lower than the amount of capital inside it, then the shareholders have the incentive to manipulate the price feed in order to siphon everyone’s money out. I’d be interested in seeing more detailed analysis on this.
+
+On NuBits:
+  - [NuBits: A Tumultuous Stablecoin](https://medium.com/coinforward/nubits-a-tumultuous-stablecoin-afe94cbe9df8)
+  - [Jordan Lee, NuBits community thread on replacing Liquidity Providers](https://discuss.nubits.com/t/withdrawn-make-firing-and-replacing-incompetent-liquidity-providers-our-top-priority/4036)
+  - [Dan Larimer's Critique](http://archive.is/EmBdj)
 
 
 
@@ -72,7 +80,8 @@ Project Comparisons:
 | BitShares/BitUSD  | [Bitshares](https://bitshares.org/technology/price-stable-cryptocurrencies/)  | 100% collateralized, BTS  |
 | Havven/Nomin | [Havven](https://havven.io) | >100% Collateralized by Native Token |
 | MakerDAO/Dai  | [MakerDAO](https://makerdao.com/)  [Dai Dashboard](https://dai.makerdao.com/) | >100% collateralized, P-ETH CDPs for now, one of few stablecoins being used [compensate developers](https://forum.makerdao.com/t/dapphub-invoice-june-2017/883)  |
-| Set | [Set Protocol](https://setprotocol.com/) | Set is working on fully collateralized ERC-20 baskets, one of which will be a collateralized by other stable tokens |
+| NuShares/NuBits | [NuBits](https://www.nubits.com/) | - |
+| Set | [Set Protocol](https://setprotocol.com/) | Not technically a stablecoin-focused project. Set is working on fully collateralized ERC-20 baskets. Mentioned here because it will be used to hold baskets of other stable tokens. |
 | Sweetcoin/BridgeCoin | [Sweetbridge.com](https://sweetbridge.com/product) | ETH collateralized for now |
 
 ##### Non-Crypto-Collateralized  
@@ -99,3 +108,11 @@ Project Comparisons:
   - Improve this repo by making a PR!
   - [The Stable Fund: Request for Startups](https://stable.fund/rfs)
   - [Kyokan](https://angel.co/kyokan) is open to collaborate with projects and funds interested in accelerating adoption of cryptocurrencies by designing incentives, building generalized tools/payment integrations, and improving usability.
+
+----------
+----------
+----------
+
+#### Misc/Uncategorized Resources
+  - https://thecontrol.co/stablecoins-a-holy-grail-in-digital-currency-b64f3371e111
+  - 
