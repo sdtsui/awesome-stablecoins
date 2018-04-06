@@ -66,6 +66,7 @@ A curated list of stable cryptocurrency resources and projects
 | AAA Reserve  | [AAA Reserve](https://www.aaareserve.com/)  | Fiat |
 | DigixDAO/DigixGold | [DigixDAO](https://digix.global/) | Gold |
 | Stably  | [Stably](https://www.stably.io/)  | Fiat |
+| Saga | [Saga](https://saga.org/) | Hybrid model where crypto is deposited as collateral but exchanged for fiat.  Uses a fractional reserve. Included in this section for simplicity. |
 | TrueUSD | [TrueUSD](https://www.trueUSD.com) | Fiat |
 | Tether | [Tether](https://tether.to/) | Fiat |
 
