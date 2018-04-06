@@ -40,7 +40,12 @@ A curated list of stable cryptocurrency resources and projects
     - [V's other post](https://ethresear.ch/t/collateralized-debt-obligations-for-issuer-backed-tokens/525)
 
   - [Seignorage Shares](https://bravenewcoin.com/assets/Whitepapers/A-Note-on-Cryptocurrency-Stabilisation-Seigniorage-Shares.pdf)
-    - Note differences/variations in model between projects
+    - Uses one of the schemes above (commonly schelling coins) as a price oracle.
+    - There is a lot of variation between projects, but roughly:
+      - When price is above the peg, new tokens are printed to increase supply, and distributed amongst 'shareholders', holders of the governance token, or some other token.
+      - When price is below the peg, rights to future profits (sometimes referred to as 'bonds') are created. These are sold for the stablecoin, which are locked up or burned, contracting supply.
+
+
 
 ## Project List
 
@@ -51,7 +56,7 @@ A curated list of stable cryptocurrency resources and projects
 | Augmint/A-Euro| [Augmint](https://www.augmint.cc/) | Collateralized by Native Token |
 | BitShares/BitUSD  | [Bitshares](https://bitshares.org/technology/price-stable-cryptocurrencies/)  | 100% collateralized, BTS  |
 | Havven/Nomin | [Havven](https://havven.io) | >100% Collateralized by Native Token |
-| MakerDAO/Dai  | [MakerDAO](https://makerdao.com/)  [Dai Dashboard](https://dai.makerdao.com/) | >100% collateralized, P-ETH CDPs for now  |
+| MakerDAO/Dai  | [MakerDAO](https://makerdao.com/)  [Dai Dashboard](https://dai.makerdao.com/) | >100% collateralized, P-ETH CDPs for now, one of few stablecoins being used [compensate developers](https://forum.makerdao.com/t/dapphub-invoice-june-2017/883)  |
 | Sweetcoin/BridgeCoin | [Sweetbridge.com](https://sweetbridge.com/product) | ETH collateralized for now |
 
 ##### Non-Crypto-Collateralized  
