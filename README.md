@@ -43,6 +43,19 @@ A curated list of stable cryptocurrency resources and projects
       - When price is above the peg, new tokens are printed to increase supply, and distributed amongst 'shareholders', holders of the governance token, or some other token.
       - When price is below the peg, rights to future profits (sometimes referred to as 'bonds') are created. These are sold for the stablecoin, which are locked up or burned, contracting supply.
 
+## Debates, limitations, criticisms, and instances of broken pegs
+> "Crypto-collateralized stablecoins are the perpetual motion machines of modern finance.
+...A stablecoin that is collateralized by itself is a complex and fragile [Nakamoto Scheme](https://prestonbyrne.com/2017/12/08/bitcoin_ponzi/) doomed to fail. A stablecoin that is collateralized by real assets and structured correctly is not a stablecoin, but a unit trust."
+  -- [Preston Byrne](https://prestonbyrne.com)
+
+  - [Stablecoins are doomed to fail](https://prestonbyrne.com/2017/12/10/stablecoins-are-doomed-to-fail/)
+  - [Stablecoins are doomed to fail, Part II: MakerDAO’s “DAI” stablecoin is breaking, as predicted](https://prestonbyrne.com/2018/01/11/epicaricacy/)
+  - [Stablecoins are doomed to fail, Pt. III: SAGA](https://prestonbyrne.com/2018/03/22/stablecoins-are-doomed-to-fail-pt-iii-saga/)
+  - [Basecoin: the worst idea in cryptocurrency, reborn](https://prestonbyrne.com/2017/10/13/basecoin-bitshares-2-electric-boogaloo/amp/)
+
+Project Comparisons:
+  - [MakerDAO vs Basecoin](https://www.reddit.com/r/MakerDAO/comments/76mup4/makerdao_vs_basecoin/)
+  - Vitalik's [comments](https://ethresear.ch/t/collateralized-debt-obligations-for-issuer-backed-tokens/525/8) on Maker's CDPs and price feed Rune's [response](https://www.reddit.com/r/MakerDAO/comments/7z0wvr/vitalik_comments_on_manipulating_the_price_feed/)
 
 
 ## Project List
