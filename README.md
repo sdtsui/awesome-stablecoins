@@ -35,13 +35,15 @@ A curated list of stable cryptocurrency resources and projects
       - [V's post](https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed/)
       - 100000 14237 59049 76241 81259 90215 132156 157604
 
-  - [CDOs (Collateralized Debt Obligations)](https://ethresear.ch/t/collateralized-debt-obligations-for-issuer-backed-tokens/525)
-
   - [Seignorage Shares](https://bravenewcoin.com/assets/Whitepapers/A-Note-on-Cryptocurrency-Stabilisation-Seigniorage-Shares.pdf)
+    - [Repo](https://github.com/rmsams/stablecoins) and [Vitalik's Summary](https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/)
     - Uses one of the schemes above (commonly schelling coins) as a price oracle.
     - There is a lot of variation between projects, but roughly:
       - When price is above the peg, new tokens are printed to increase supply, and distributed amongst 'shareholders', holders of the governance token, or some other token.
       - When price is below the peg, rights to future profits (sometimes referred to as 'bonds') are created. These are sold for the stablecoin, which are locked up or burned, contracting supply.
+
+  - [CDOs (Collateralized Debt Obligations)](https://ethresear.ch/t/collateralized-debt-obligations-for-issuer-backed-tokens/525)
+    - Proposes combining multiple issuer-backed tokens with a bidding process on the open market, so the risk of individual issuers can be accurately priced. Potentially removes the need for heavy reliance on price oracles.
 
 ## Debates, limitations, criticisms, and instances of broken pegs
 > "Crypto-collateralized stablecoins are the perpetual motion machines of modern finance.
@@ -56,6 +58,8 @@ A curated list of stable cryptocurrency resources and projects
 Project Comparisons:
   - [MakerDAO vs Basecoin](https://www.reddit.com/r/MakerDAO/comments/76mup4/makerdao_vs_basecoin/)
   - Vitalik's [comments](https://ethresear.ch/t/collateralized-debt-obligations-for-issuer-backed-tokens/525/8) on Maker's CDPs and price feed Rune's [response](https://www.reddit.com/r/MakerDAO/comments/7z0wvr/vitalik_comments_on_manipulating_the_price_feed/)
+  > Another thing I have thought about is that in an economic model where you do not assume altruistic honesty or non-coordination, it’s not clear that makerdao has a higher security level, or even that it’s possible to achieve a higher security level, than seignorage shares. If the total discounted expected future profits of the scheme are lower than the amount of capital inside it, then the shareholders have the incentive to manipulate the price feed in order to siphon everyone’s money out. I’d be interested in seeing more detailed analysis on this.
+
 
 
 ## Project List
@@ -68,6 +72,7 @@ Project Comparisons:
 | BitShares/BitUSD  | [Bitshares](https://bitshares.org/technology/price-stable-cryptocurrencies/)  | 100% collateralized, BTS  |
 | Havven/Nomin | [Havven](https://havven.io) | >100% Collateralized by Native Token |
 | MakerDAO/Dai  | [MakerDAO](https://makerdao.com/)  [Dai Dashboard](https://dai.makerdao.com/) | >100% collateralized, P-ETH CDPs for now, one of few stablecoins being used [compensate developers](https://forum.makerdao.com/t/dapphub-invoice-june-2017/883)  |
+| Set | [Set Protocol](https://setprotocol.com/) | Set is working on fully collateralized ERC-20 baskets, one of which will be a collateralized by other stable tokens |
 | Sweetcoin/BridgeCoin | [Sweetbridge.com](https://sweetbridge.com/product) | ETH collateralized for now |
 
 ##### Non-Crypto-Collateralized  
@@ -76,8 +81,8 @@ Project Comparisons:
 | ------------- | ------------- | ------------- |
 | AAA Reserve  | [AAA Reserve](https://www.aaareserve.com/)  | Fiat |
 | DigixDAO/DigixGold | [DigixDAO](https://digix.global/) | Gold |
-| Stably  | [Stably](https://www.stably.io/)  | Fiat |
 | Saga | [Saga](https://saga.org/) | Hybrid model where crypto is deposited as collateral but exchanged for fiat.  Uses a fractional reserve. Included in this section for simplicity. |
+| Stably  | [Stably](https://www.stably.io/)  | Fiat |
 | TrueUSD | [TrueUSD](https://www.trueUSD.com) | Fiat |
 | Tether | [Tether](https://tether.to/) | Fiat |
 
