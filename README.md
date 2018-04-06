@@ -7,7 +7,7 @@ A curated list of stable cryptocurrency resources and projects
   -- [Multicoin Capital: An Overview of Stablecoins](https://multicoin.capital/2018/01/17/an-overview-of-stablecoins/)
 
 Technically, most stablecoins are digital tokens pegged to a stable store of value. This is especially true in the case of issuer-backed tokens, where the store of value is the collateral.
-Credit to Buck Perley (Engineer at Purse) for elaborating in an IM exchange with DT.
+Credit to Buck Perley (Engineer at Purse) for pointing this out.
 
 ## Prior art
   - Issuing shares, [fiat](https://www.coindesk.com/lhv-bank-backs-wallet-app-built-on-bitcoins-blockchain/), and other assets with [Bitcoin Script](https://en.bitcoin.it/wiki/Colored_Coins#Issuing_shares), most commonly using  `OP_RETURN` to attach metadata to fractions of a Bitcoin.
@@ -22,7 +22,7 @@ Credit to Buck Perley (Engineer at Purse) for elaborating in an IM exchange with
 - Non-Crypto-Collateralized
 - Uncollateralized/Other
 
-Note that this categorization is intentionally as general as possible, and emphasizes implementation (from a product perspective), not market segmentation.  For example, liquidity can be shared between categories, as in the case of a Dai or Set partially collateralized with TrueUSD, Basecoin, or Tether. Credit to Panashe Mahachi (Growth at L4, Investment at The Stable Fund) for emphasizing this in an email exchange with DT.
+Note that this categorization is intentionally as general as possible, and emphasizes implementation (from a product perspective), not market segmentation.  For example, liquidity can be shared between categories, as in the case of a Dai or Set partially collateralized with TrueUSD, Basecoin, or Tether. Credit to Panashe Mahachi (Growth at L4, Investment at The Stable Fund) for emphasizing this.
 
 ## Maintaining stability (Incomplete)
 
