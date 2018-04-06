@@ -115,4 +115,8 @@ On NuBits:
 
 #### Misc/Uncategorized Resources
   - https://thecontrol.co/stablecoins-a-holy-grail-in-digital-currency-b64f3371e111
-  - 
+  - https://multicoin.capital/2018/01/17/an-overview-of-stablecoins/
+  - https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5
+    - Phi:
+        - https://medium.com/@danfinlay/phi-decentralized-lending-and-stable-currency-might-not-actually-be-stable-36f472948591
+        - https://www.reddit.com/r/ethereum/comments/5fjncm/a_critique_of_phi_the_lending_platform_and_stable/dalltg6/
