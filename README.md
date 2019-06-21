@@ -167,6 +167,7 @@ On Tether:
 ----------
 
 #### Misc/Uncategorized Resources
+  - [Stablecoins list on defiprime.com](https://defiprime.com/stablecoins) 
   - https://thecontrol.co/stablecoins-a-holy-grail-in-digital-currency-b64f3371e111
   - https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5
   - Phi:
