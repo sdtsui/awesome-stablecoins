@@ -16,6 +16,7 @@ Credit to Buck Perley (Engineer at Purse) for pointing this out.
 - Markets/Exchanges: as a hedge against crypto volatility for traders, creation of new trading pairs, fiat-denominated on-chain derivates and other financial instruments, prediction markets
 - DApps: medium of exchange for DApps, prediction markets, insurance
 - Commerce: international remittance, on-chain fiat payment integrations
+- Machine-to-machine payments: [x402](https://github.com/xpaysh/awesome-x402) implements HTTP 402 Payment Required for programmatic USDC payments, enabling AI agents and APIs to transact using stablecoins over standard HTTP
 
 ## Types of stable cryptocurrencies
 - Crypto-Collateralized
