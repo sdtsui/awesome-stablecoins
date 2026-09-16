@@ -172,3 +172,4 @@ On Tether:
   - Phi:
       - https://medium.com/@danfinlay/phi-decentralized-lending-and-stable-currency-might-not-actually-be-stable-36f472948591
       - https://www.reddit.com/r/ethereum/comments/5fjncm/a_critique_of_phi_the_lending_platform_and_stable/dalltg6/
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
