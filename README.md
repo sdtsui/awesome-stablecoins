@@ -172,3 +172,4 @@ On Tether:
   - Phi:
       - https://medium.com/@danfinlay/phi-decentralized-lending-and-stable-currency-might-not-actually-be-stable-36f472948591
       - https://www.reddit.com/r/ethereum/comments/5fjncm/a_critique_of_phi_the_lending_platform_and_stable/dalltg6/
+  - [RailFi](https://railfi.xyz) — Non-custodial USDC/USDT payout plans for B2B teams: build the plan, send from your own wallet, reconcile each transfer to the invoice. Free months for early teams.
